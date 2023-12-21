@@ -1,0 +1,134 @@
+.but{
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px
+}
+
+.iitg{
+    height : 300px;
+    width : 300px;
+    margin-bottom: 800px;
+    margin-top: -700px;
+}
+
+.try{
+    height : 200px;
+    width : 500px;
+    background-color :rgb(231, 159, 132);
+    font-size: 15px;
+    margin-left: 800px;
+    outline : 5px solid chocolate;
+    margin top : 75px;
+}
+
+.yt{
+    margin-left : 175px;
+    height : 100px;
+    width : 200px;
+    margin-top: -1070px;
+    margin-bottom: 1200px; 
+}
+
+.t{
+  font-size: 16px;
+  font-size: max(16px, 1em);
+  font-family: inherit;
+  padding: 0.25em 0.5em;
+  background-color: #fff;
+  border: 2px solid var(--input-border);
+  border-radius: 4px;
+}
+
+.r4{
+    font-size: 40px;
+    color : blue;
+    height : 50px;
+    width : 400px;
+    background-color:salmon;
+}
+.links{
+    margin-left: 850px;
+    margin-top: -700px;
+    height : 400px;
+    width : 400px;
+    background-color :tan;
+    font-size: 30px;
+}
+
+.xyt{
+    color : chocolate;
+}
+
+.pqr{
+    height : 400px;
+    width : 500px;
+}
+
+.c1{
+    margin-left : 450px;
+    height : 150px;
+    width : 500px;
+    display : block;
+}
+
+.c2{
+    margin-left : 1000px;
+    height : 100px;
+    width : 200px;
+    margin-top: -150px;
+    margin-bottom: 50px;
+}
+
+body{
+    background-color: bisque;
+    margin : 8px;
+}
+
+.x{
+  font-size: 20px;
+  font-size: max(16px, 1em);
+  font-family: inherit;
+  padding: 0.25em 0.5em;
+  background-color: #fff;
+  border: 2px solid var(--input-border);
+  border-radius: 4px;
+}
+
+.y{
+  font-size: 20px;
+  font-size: max(16px, 1em);
+  font-family: inherit;
+  padding: 0.25em 0.5em;
+  background-color: #fff;
+  border: 2px solid var(--input-border);
+  border-radius: 4px;
+
+.z{
+  font-size: 20px;
+  font-size: max(16px, 1em);
+  font-family: inherit;
+  padding: 0.25em 0.5em;
+  background-color: #fff;
+  border: 2px solid var(--input-border);
+  border-radius: 4px;
+}
+
+.p{
+  font-size: 16px;
+  font-size: max(16px, 1em);
+  font-family: inherit;
+  padding: 0.25em 0.5em;
+  background-color: #fff;
+  border: 2px solid var(--input-border);
+  border-radius: 4px;
+}
+
+.pqr{
+    height : 150px;
+    width : 200px;
+}
